@@ -13,12 +13,12 @@ This page provides information about updated third-party components and configur
 
 ---
 
-### CodeMie 2.49.0 {#v2-49-0}
+### CodeMie 2.50.0 {#v2-50-0}
 
 <details>
 <summary>Release details</summary>
 
-**Release Date:** TBD · [GitHub Tag ↗](https://github.com/codemie-ai/codemie/releases/tag/2.49.0)
+**Release Date:** TBD · [GitHub Tag ↗](https://github.com/codemie-ai/codemie/releases/tag/2.50.0)
 
 <h3>Third-Party Component Updates</h3>
 
@@ -46,6 +46,23 @@ No third-party component updates in this release.
    :::
 
    See [Code Executor Configuration](../configuration/codemie/code-executor-configuration.md#namespace-configuration) for details.
+
+</details>
+
+### CodeMie 2.49.0 {#v2-49-0}
+
+<details>
+<summary>Release details</summary>
+
+**Release Date:** September 10, 2026 · [GitHub Tag ↗](https://github.com/codemie-ai/codemie/releases/tag/2.49.0)
+
+<h3>Third-Party Component Updates</h3>
+
+No third-party component updates in this release.
+
+<h3>Configuration Changes</h3>
+
+No breaking configuration changes were introduced in this release.
 
 </details>
 
